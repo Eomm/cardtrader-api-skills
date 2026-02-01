@@ -7,7 +7,7 @@ AI agent skills for working with the CardTrader REST API. Provides comprehensive
 Install this skill using the GitHub Copilot Skills CLI:
 
 ```bash
-npx skills add Eomm/cardtrader-api-skills
+npx skills add https://github.com/eomm/cardtrader-api-skills --skill cardtrader-api
 ```
 
 This will add the CardTrader API skill to your local skills directory, making it available to your AI agent.
